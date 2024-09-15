@@ -1,0 +1,35 @@
+.productsAll{
+    margin: 10px;
+    text-align: center;
+    border: 2px solid black;
+width: 400px;
+
+  
+}
+.productsAll img{
+    width: 200px;
+    height: 200px;
+}
+
+.pds{
+    list-style: none;
+    display: flex;
+    flex-flow: wrap;
+}
+.pds button{
+    cursor: pointer;
+    margin: 10px;
+width: 403px;
+background-color: transparent;
+border: 2px solid gray;
+transition: ease-out 1s;
+box-shadow: inset 0 0 0 black;
+}
+.pds button:hover{
+color: white;
+    box-shadow: inset 400px 0 0 0 black ;
+}
+
+.product-sel {
+font-variant: small-caps;
+}

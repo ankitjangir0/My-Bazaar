@@ -1,0 +1,48 @@
+#footer{
+    border: 2px solid wheat;
+    margin-top: 10px;
+    padding: 5%;
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+}
+
+#footer a{
+    text-decoration: none;
+    color: black;
+}
+
+.follow img{
+    margin: 5px;
+    width: 30px;
+    height: 20px;
+    
+}
+
+.GG{
+    margin-left: 10%;
+}
+.shop{
+margin-left: 10%;
+}
+
+.Help{
+margin-left: 10%;
+
+}
+.follow{
+margin-left: 10%;
+
+}
+
+.opt{
+    float: right;
+}
+.opt select{
+    width: 200px;
+    height: 40px;
+text-align: center;
+}
+.opt option{
+    background-color: gray;
+}
